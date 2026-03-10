@@ -39,3 +39,11 @@
   display: flex;
   justify-content: space-around;
 }
+
+.cart-info button{
+  border: none;
+  background: transparent;
+  color: red;
+
+
+}
