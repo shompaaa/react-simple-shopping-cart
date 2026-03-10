@@ -1,0 +1,41 @@
+.main-container{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+
+.product{
+  width: 450px;
+  margin-bottom: 20px;
+  padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+  
+}
+
+
+.product-footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-footer button{
+  background: transparent;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+
+
+.cart-container{
+  width: 250px;
+}
+.cart-title,.cart-info{
+  display: flex;
+  justify-content: space-around;
+}
